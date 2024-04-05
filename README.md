@@ -29,4 +29,4 @@ This is a full-stack blog website built using the MERN (MongoDB, Express.js, Rea
 1. Clone the repository:
 
    ```bash
-   https://github.com/rishabh3562/Blog-Web-App.git
+   https://github.com/aadityaahire7/mindMingle.git
